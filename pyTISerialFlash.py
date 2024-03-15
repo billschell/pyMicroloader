@@ -10,7 +10,6 @@
 
 import platform
 import sys
-from tkinter import Y
 import traceback
 import serial
 import serial.tools.list_ports
